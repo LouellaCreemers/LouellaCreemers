@@ -35,7 +35,7 @@
 ## Where To Find Me :earth_americas:
 Find me on any of these platforms (by clicking on them) <br><br>
 [![LinkedinBadge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loudev)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lovelacecoding)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@lovelacecoding) 
+[![Twitter](https://img.shields.io/twitter/follow/lovelacecoding?logo=twitter&style=for-the-badge)](https://twitter.com/lovelacecoding)
 
 
