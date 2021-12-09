@@ -1,8 +1,8 @@
-### Welcome to my Github page 👋
+### Welcome to my GitHub page 👋
 
 <img src="https://raw.githubusercontent.com/LouellaCreemers/LouellaCreemers/main/banner-github-louellacreemers-dark.png" alt="Banner stating Hello World! I'm Louella Creemers, Developer at Rotterdam, The Netherlands">
 
-
+----
 
 ## My Skills :woman_technologist:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -29,8 +29,26 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
+
+## My Latest Hashnode Blogposts
+ <!-- BLOG-POST-LIST:START -->
+ 
+ <!-- BLOG-POST-LIST:END -->
+ 
+---
+
+## My latest GitHub Activities
+<!--START_SECTION:activity-->
+
+<!--STOP_SECTION:activity-->
+
+---
+
 ## Projects I Contribute To :computer:
 [Green Code Evalutor](https://github.com/green-code-evaluator/green-code-evaluator) - Analysing Python files to see how much power it uses
+
+---
 
 ## Where To Find Me :earth_americas:
 Find me on any of these platforms (by clicking on them) <br><br>
