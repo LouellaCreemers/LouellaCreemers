@@ -39,13 +39,6 @@
  
 ---
 
-## My latest GitHub Activities
-<!--START_SECTION:activity-->
-
-<!--STOP_SECTION:activity-->
-
----
-
 ## Projects I Contribute To :computer:
 [Green Code Evalutor](https://github.com/green-code-evaluator/green-code-evaluator) - Analysing Python files to see how much power it uses
 
