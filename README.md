@@ -33,8 +33,9 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
- 
- <!-- BLOG-POST-LIST:END -->
+- [How To Use a .env File With Python](https://lovelacecoding.hashnode.dev/how-to-use-a-env-file-with-python)
+- [Using Variables the Clean Way](https://lovelacecoding.hashnode.dev/using-variables-the-clean-way)
+<!-- BLOG-POST-LIST:END -->
  
 ---
 
