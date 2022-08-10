@@ -1,5 +1,7 @@
 ### Welcome to my GitHub page 👋
 
+<strong> This is my student/professional account. If you're looking for OSS activities or interesting projects, check out [my other account](https://github.com/lovelacecoding)</strong>
+
 <img src="https://raw.githubusercontent.com/LouellaCreemers/LouellaCreemers/main/banner-github-louellacreemers-dark.png" alt="Banner stating Hello World! I'm Louella Creemers, Developer at Rotterdam, The Netherlands">
 
 ----
