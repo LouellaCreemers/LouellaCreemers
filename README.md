@@ -32,11 +32,11 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
+- [What I Learned in 4 Years as an Applied Computer Science Student](https://lovelacecoding.hashnode.dev/what-i-learned-in-4-years-as-an-applied-computer-science-student)
 - [What Are All These Boxes Doing Here?](https://lovelacecoding.hashnode.dev/what-are-all-these-boxes-doing-here)
 - [Challenge Your Skills!](https://lovelacecoding.hashnode.dev/challenge-your-skills)
 - [How to Create a Pull Request With GitHub Desktop](https://lovelacecoding.hashnode.dev/how-to-create-a-pull-request-with-github-desktop)
 - [How to Pass Your Certification Exam](https://lovelacecoding.hashnode.dev/how-to-pass-your-certification-exam)
-- [An Introduction to LINQ](https://lovelacecoding.hashnode.dev/an-introduction-to-linq)
 <!-- BLOG-POST-LIST:END -->
  
 ---
