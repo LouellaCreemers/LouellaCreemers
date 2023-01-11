@@ -32,11 +32,11 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
+- [7 Resources Every Web Developer Should Know](https://lovelacecoding.hashnode.dev/7-resources-every-web-developer-should-know)
 - [A Busy 2022 in Review: Conferences, Interviews, and New Adventures](https://lovelacecoding.hashnode.dev/a-busy-2022-in-review-conferences-interviews-and-new-adventures)
 - [Exploring the Top .NET IDEs: A Comprehensive List](https://lovelacecoding.hashnode.dev/exploring-the-top-net-ides)
 - [What I Learned in 4 Years as an Applied Computer Science Student](https://lovelacecoding.hashnode.dev/what-i-learned-in-4-years-as-an-applied-computer-science-student)
 - [What Are All These Boxes Doing Here?](https://lovelacecoding.hashnode.dev/what-are-all-these-boxes-doing-here)
-- [Challenge Your Skills!](https://lovelacecoding.hashnode.dev/challenge-your-skills)
 <!-- BLOG-POST-LIST:END -->
  
 ---
