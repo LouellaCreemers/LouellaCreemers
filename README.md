@@ -1,30 +1,44 @@
-### Welcome to my GitHub page 👋
+# I'm Lou, nice to meet you 👋
 
 > **Note** 
 > This is my student/professional account. If you're looking for OSS activities or interesting projects, check out [my other account](https://github.com/lovelacecoding)
 
-<img src="https://raw.githubusercontent.com/LouellaCreemers/LouellaCreemers/main/banner-github-louellacreemers-dark.png" alt="Banner stating Hello World! I'm Louella Creemers, Developer at Rotterdam, The Netherlands">
+<table align="center"><tr><td valign="top" width="65%">
+* I'm a web developer located in Rotterdam, The Netherlands.
+* I worked on 20+ different projects as a backend .NET and TypeScript developer.
+* I love C#, .NET, and dad jokes.
+* Microsoft MVP for the category Developer Technologies since April 2023.
+* Helping the community, and knowledge sharing makes me happy ❤️
 
-----
+</td><td valign="top" width="35%">
 
-## My Skills :woman_technologist:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<br>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# My current stack 👩‍💻
+* C#
+* .NET
+* Python
 
+</tr></tr></table>
 
+<p align="center">
+ <a href="https://hashnode.com/@lovelacecoding">
+   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode badge"/>
+ </a>
+ <a href="https://www.linkedin.com/in/louelladev/">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
+ </a>
+ <a href="https://twitter.com/lovelacecoding">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" />
+ </a>
+</p>
+
+## My Latest Hashnode Blog posts
+ <!-- BLOG-POST-LIST:START -->
+- [Getting Started in the .NET Open Source Community: A Beginner’s Guide](https://lovelacecoding.hashnode.dev/getting-started-in-the-net-open-source-community-a-beginners-guide)
+- [How to Build Your First Python Game](https://lovelacecoding.hashnode.dev/how-to-build-your-first-python-game)
+- [Secure Your Coding: Create an SSH Key on Mac or Windows](https://lovelacecoding.hashnode.dev/secure-your-coding-create-an-ssh-key-on-mac-or-windows)
+- [Modern C# Development: Get Started With TimeOnly](https://lovelacecoding.hashnode.dev/modern-c-development-get-started-with-timeonly)
+- [Modern C# Development: Get Started with DateOnly](https://lovelacecoding.hashnode.dev/modern-c-get-started-with-dateonly)
+<!-- BLOG-POST-LIST:END -->
+ 
 
 
