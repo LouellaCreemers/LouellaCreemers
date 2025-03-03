@@ -1,9 +1,7 @@
+<table align="center"><tr><td valign="top" width="65%">
+
 # I'm Lou, nice to meet you 👋
 
-> **Note** 
-> This is my student/professional account. If you're looking for OSS activities or interesting projects, check out [my other account](https://github.com/lovelacecoding)
-
-<table align="center"><tr><td valign="top" width="65%">
 * I'm a web developer located in Rotterdam, The Netherlands.
 * I worked on 20+ different projects as a backend .NET and TypeScript developer.
 * I love C#, .NET, and dad jokes.
@@ -40,5 +38,4 @@
 - [Modern C# Development: Get Started with DateOnly](https://lovelacecoding.hashnode.dev/modern-c-get-started-with-dateonly)
 <!-- BLOG-POST-LIST:END -->
  
-
 
