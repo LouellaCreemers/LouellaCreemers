@@ -11,8 +11,8 @@
 </td><td valign="top" width="35%">
 
 # My current stack 👩‍💻
-* C#
-* .NET
+* C# + .NET
+* VueJS + TS
 * Python
 
 </tr></tr></table>
