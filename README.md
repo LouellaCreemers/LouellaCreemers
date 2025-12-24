@@ -18,16 +18,9 @@
 </tr></tr></table>
 
 <p align="center">
- <a href="https://dev.to/lovelacecoding">
-   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="DevTobadge"/>
- </a>
- <a href="https://www.linkedin.com/in/louelladev/">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
- </a>
- <a href="https://twitter.com/lovelacecoding">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" />
- </a>
+<a href="https://dev.to/lovelacecoding"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to badge"/></a><a href="https://www.linkedin.com/in/louelladev/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn badge"/></a><a href="https://twitter.com/lovelacecoding"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X badge"/></a>
 </p>
+
 
 ## My Latest Blog posts
  <!-- BLOG-POST-LIST:START -->
