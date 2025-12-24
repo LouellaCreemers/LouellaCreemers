@@ -2,7 +2,7 @@
 
 # I'm Lou, nice to meet you 👋
 
-* I'm a web developer located in Rotterdam, The Netherlands.
+* I'm a web developer located in The Netherlands.
 * I worked on 20+ different projects as a backend .NET and TypeScript developer.
 * I love C#, .NET, and dad jokes.
 * Microsoft MVP for the category Developer Technologies since April 2023.
