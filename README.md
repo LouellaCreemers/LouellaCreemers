@@ -18,8 +18,8 @@
 </tr></tr></table>
 
 <p align="center">
- <a href="https://hashnode.com/@lovelacecoding">
-   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode badge"/>
+ <a href="https://dev.to/lovelacecoding">
+   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="DevTobadge"/>
  </a>
  <a href="https://www.linkedin.com/in/louelladev/">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
