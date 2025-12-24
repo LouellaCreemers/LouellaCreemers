@@ -31,11 +31,11 @@
 
 ## My Latest Hashnode Blog posts
  <!-- BLOG-POST-LIST:START -->
-- [Getting Started in the .NET Open Source Community: A Beginner’s Guide](https://lovelacecoding.hashnode.dev/getting-started-in-the-net-open-source-community-a-beginners-guide)
-- [How to Build Your First Python Game](https://lovelacecoding.hashnode.dev/how-to-build-your-first-python-game)
-- [Secure Your Coding: Create an SSH Key on Mac or Windows](https://lovelacecoding.hashnode.dev/secure-your-coding-create-an-ssh-key-on-mac-or-windows)
-- [Modern C# Development: Get Started With TimeOnly](https://lovelacecoding.hashnode.dev/modern-c-development-get-started-with-timeonly)
-- [Modern C# Development: Get Started with DateOnly](https://lovelacecoding.hashnode.dev/modern-c-get-started-with-dateonly)
+- [Public Speaking at Tech Events 101: From Acceptance to the Stage](https://dev.to/lovelacecoding/public-speaking-at-tech-events-101-from-acceptance-to-the-stage-487l)
+- [Modern C# Development: Custom Exceptions Made Simple](https://dev.to/lovelacecoding/modern-c-development-custom-exceptions-made-simple-1ln8)
+- [Public Speaking at Tech Events 101: How to Start Your Speaker Journey](https://dev.to/lovelacecoding/public-speaking-at-tech-events-101-how-to-start-your-speaker-journey-2olj)
+- [Modern C# Development: User Defined Increment and decrement](https://dev.to/lovelacecoding/new-user-defined-increment-and-decrement-in-c-14-26cl)
+- [New File-Based Apps in .NET 10: You Can Now Run C# in Just 1 File!](https://dev.to/lovelacecoding/file-based-apps-in-net-10-you-can-now-run-c-in-just-1-file-5eji)
 <!-- BLOG-POST-LIST:END -->
  
 
