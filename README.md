@@ -29,7 +29,7 @@
  </a>
 </p>
 
-## My Latest Hashnode Blog posts
+## My Latest Blog posts
  <!-- BLOG-POST-LIST:START -->
 - [Public Speaking at Tech Events 101: From Acceptance to the Stage](https://dev.to/lovelacecoding/public-speaking-at-tech-events-101-from-acceptance-to-the-stage-487l)
 - [Modern C# Development: Custom Exceptions Made Simple](https://dev.to/lovelacecoding/modern-c-development-custom-exceptions-made-simple-1ln8)
