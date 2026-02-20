@@ -24,11 +24,11 @@
 
 ## My Latest Blog posts
  <!-- BLOG-POST-LIST:START -->
+- [Vue Composition API: Computed and Ref Properties Explained](https://dev.to/lovelacecoding/vue-composition-api-a-clear-guide-to-ref-and-computed-4aeh)
 - [Public Speaking at Tech Events 101: Being Uncomfortable Is Worth It](https://dev.to/lovelacecoding/public-speaking-at-conferences-101-being-uncomfortable-is-worth-it-43kk)
 - [Why Blogging Still Matters in the Age of AI](https://dev.to/lovelacecoding/why-blogging-still-matters-in-the-age-of-ai-438b)
 - [Public Speaking at Tech Events 101: From Acceptance to the Stage](https://dev.to/lovelacecoding/public-speaking-at-tech-events-101-from-acceptance-to-the-stage-487l)
 - [Modern C# Development: Custom Exceptions Made Simple](https://dev.to/lovelacecoding/modern-c-development-custom-exceptions-made-simple-1ln8)
-- [Public Speaking at Tech Events 101: How to Start Your Speaker Journey](https://dev.to/lovelacecoding/public-speaking-at-tech-events-101-how-to-start-your-speaker-journey-2olj)
 <!-- BLOG-POST-LIST:END -->
  
 
