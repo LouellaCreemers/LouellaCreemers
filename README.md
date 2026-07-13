@@ -24,11 +24,11 @@
 
 ## My Latest Blog posts
  <!-- BLOG-POST-LIST:START -->
+- [C# Async/Await Made Simple](https://dev.to/lovelacecoding/c-asyncawait-made-simple-2bo0)
 - [Bye AZ-204, hello AI-200: What you need to know about the new Azure developer certification](https://dev.to/lovelacecoding/bye-az-204-hello-ai-200-what-you-need-to-know-about-the-new-azure-developer-certification-2lo)
 - [AI Is Making English a Must-Have Skill for Developers](https://dev.to/lovelacecoding/ai-is-making-english-a-must-have-skill-for-developers-29e)
 - [Vue Composition API: Computed and Ref Properties Explained](https://dev.to/lovelacecoding/vue-composition-api-a-clear-guide-to-ref-and-computed-4aeh)
 - [Public Speaking at Tech Events 101: Being Uncomfortable Is Worth It](https://dev.to/lovelacecoding/public-speaking-at-conferences-101-being-uncomfortable-is-worth-it-43kk)
-- [Why Blogging Still Matters in the Age of AI](https://dev.to/lovelacecoding/why-blogging-still-matters-in-the-age-of-ai-438b)
 <!-- BLOG-POST-LIST:END -->
  
 
