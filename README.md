@@ -24,11 +24,11 @@
 
 ## My Latest Blog posts
  <!-- BLOG-POST-LIST:START -->
+- [European Law for .NET Developers: What the GDPR Means for Your Code](https://dev.to/lovelacecoding/european-law-for-net-developers-what-the-gdpr-means-for-your-code-2hkb)
 - [Emotional Intelligence: The Developer Skill AI Can&#39;t Replace](https://dev.to/lovelacecoding/emotional-intelligence-the-developer-skill-ai-cant-replace-25jn)
 - [SQL Database Projects and AI: A Match Made in Heaven](https://dev.to/lovelacecoding/sql-database-projects-and-ai-a-match-made-in-heaven-4pn2)
 - [My JetBrains Rider Setup for Surviving Live-Coding Demos](https://dev.to/lovelacecoding/my-jetbrains-rider-setup-for-surviving-live-coding-demos-lh)
 - [How Being a Junior Developer Taught Me More About Myself Than About Code](https://dev.to/lovelacecoding/how-being-a-junior-developer-taught-me-more-about-myself-than-about-code-co8)
-- [C# Async/Await Made Simple](https://dev.to/lovelacecoding/c-asyncawait-made-simple-2bo0)
 <!-- BLOG-POST-LIST:END -->
  
 
